@@ -1,0 +1,1 @@
+arrowFunc = (a) => a;
