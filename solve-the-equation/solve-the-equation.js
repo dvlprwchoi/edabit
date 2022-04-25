@@ -1,0 +1,1 @@
+equation = (s) => eval(s);
