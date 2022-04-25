@@ -1,0 +1,1 @@
+eq = (evaluate) => eval(evaluate);
